@@ -1,4 +1,4 @@
-# BFHL REST API
+# Bajaj Finserv Assesment
 
 This project is a Node.js Express REST API for the Bajaj Finserv VIT Full Stack Question Paper.
 
