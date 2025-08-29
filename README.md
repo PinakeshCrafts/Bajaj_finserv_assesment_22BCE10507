@@ -1,6 +1,6 @@
 # BFHL REST API
 
-This project is a Node.js Express REST API for the VIT Full Stack Question Paper.
+This project is a Node.js Express REST API for the Bajaj Finserv VIT Full Stack Question Paper.
 
 ## Features
 - POST endpoint `/bfhl` that accepts an array and returns:
@@ -39,5 +39,5 @@ This project is a Node.js Express REST API for the VIT Full Stack Question Paper
      ```
 
 
-3. Set the root directory to `Bajaj` if prompted.
-4. Deploy and get your API URL (e.g., `https://your-project-name.vercel.app/bfhl`).
+3. Set the root directory to `BajajAssesment` if prompted.
+4. Deploy : https://bajaj-finserv-assesment-22-bce-1050.vercel.app/
